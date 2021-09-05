@@ -1,12 +1,12 @@
-# URL Shortener App
+# Live Answers App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Before running
-Make sure the [Server](https://github.com/angelguzmaning/url-shortener-server) is running on port 7500.
+Make sure the [Server](https://github.com/angelguzmaning/url-shortener-server) is running on port 7501.
 
 ## Run with Docker
-You can run this app with docker on `localhost:7300` by running
+You can run this app with docker on `localhost:7301` by running
 ### `docker-compose up`
 You can also run it by using the create-react-app scripts listed bellow, remember to run `npm i` before running those scripts.
 
